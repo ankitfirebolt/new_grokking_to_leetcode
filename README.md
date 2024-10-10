@@ -310,6 +310,9 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Bus Routes](https://leetcode.com/problems/bus-routes/)
 
+- [ ] [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)
+
+<check educative from here:>
 ## Tree Depth First Search
 
 - [ ] [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
