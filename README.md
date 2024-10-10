@@ -27,23 +27,6 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [ ] Unsolved
 - [X] Solved
 
-## Sliding Window
-- [ ] [Find Maximum in Sliding Window](https://leetcode.com/problems/sliding-window-maximum/)
-
-- [ ] [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/)
-
-- [ ] [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
-
-- [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
-
-- [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
-
-- [ ] [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-
-- [ ] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
-
-- [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-
 ## Two Pointers
 - [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
@@ -55,6 +38,8 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 
+- [ ] [Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/description/)
+
 - [ ] [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 
 ## Fast and Slow Pointers
@@ -62,14 +47,32 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [ ] [Happy Number](https://leetcode.com/problems/happy-number/)
 
 - [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+  
+- [ ] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
 - [ ] [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)
 
 - [ ] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 
-- [ ] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
-
 - [ ] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+
+## Sliding Window
+
+- [ ] [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
+      
+- [ ] [Find Maximum in Sliding Window](https://leetcode.com/problems/sliding-window-maximum/)
+
+- [ ] [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/)
+
+- [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+
+- [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+
+- [ ] [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+- [ ] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+
+- [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 ## Merge Intervals
 
@@ -105,11 +108,13 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Maximize Capital](https://leetcode.com/problems/ipo/)
 
-- [ ] [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)
-
 - [ ] [Find Median from a Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 
-- [ ] [Schedule Tasks on Minimum Machines](https://leetcode.com/problems/task-scheduler/)?
+- [ ] [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)
+
+- [ ] [Schedule Tasks on Minimum Machines](https://leetcode.com/problems/task-scheduler/)
+
+- [ ] [Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/description/)
 
 ## K-way merge
 
@@ -157,6 +162,8 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
 
+- [ ] [Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/description/)
+
 ## Subsets
 
 - [ ] [Subsets](https://leetcode.com/problems/subsets/)
@@ -179,6 +186,10 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 
 - [ ] [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)
 
+- [ ] [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/description/)
+
+- [ ] [Largest Palindromic Number](https://leetcode.com/problems/largest-palindromic-number/description/)
+
 - [ ] [Jump Game II](https://leetcode.com/problems/jump-game-ii/)
 
 ## Backtracking
@@ -194,6 +205,8 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [ ] [Flood Fill](https://leetcode.com/problems/flood-fill/)
 
 - [ ] [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
+
+- [ ] [Minimum Moves to Spread Stones Over Grid](https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid/description/)
 
 - [ ] [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/)
 
@@ -228,6 +241,8 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [ ] [Decode Ways](https://leetcode.com/problems/decode-ways/)
 
 - [ ] [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)
+
+- [ ] [Count the Number of Good Subsequences](https://leetcode.com/problems/count-the-number-of-good-subsequences/description/)
 
 - [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 
